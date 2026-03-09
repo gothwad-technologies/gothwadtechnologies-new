@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Gothwad Technologies",
+  "description": "A premium enterprise-grade landing page for Gothwad Technologies, featuring a clean white theme, app store showcase, and detailed company roadmap.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
